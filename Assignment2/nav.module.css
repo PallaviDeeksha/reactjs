@@ -1,0 +1,10 @@
+#navBlock{
+    display: flex;
+    justify-content: space-around;
+    border:6px solid rgb(151, 32, 32);
+    height: 75px;
+    color:black;
+    top: 0%;
+    background-color: rgb(182, 255, 233);
+
+}

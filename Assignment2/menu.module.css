@@ -1,0 +1,24 @@
+#menuBlock ul{
+    display: flex;
+    width: 400px;
+    height: 60px;
+    justify-content: space-around;
+    list-style-type: none;
+
+}
+#menuBlock ul li a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    justify-content: space-around;
+    color: black;
+    /*margin-left: auto;*/
+
+}
+#menuBlock ul li{
+    justify-content: space-around;
+    width:90px;
+    margin-right: auto;
+
+}
+
