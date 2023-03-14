@@ -1,0 +1,79 @@
+[
+    {
+        "studentname":"Inky",
+        "age": 24,
+        "gender":"female",
+        "dob":"01-01-1999",
+        "course":"Computer science",
+        "section":"A",
+        "photo":"https://imageio.forbes.com/b-i-forbesimg/thumbnails/blog_928/pt_928_13396_o.jpg?format=jpg&width=1200",
+        "phone":[123748595, 1637957257,899643678]
+
+    },
+    {
+        "studentname":"Pinky",
+        "age": 24,
+        "gender":"female",
+        "dob":"03-01-1999",
+        "course":"Civil",
+        "section":"B",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSt5OVNIwtqVhX_uoZb357Hx9hJxO5YkjAw&usqp=CAU",
+        "phone":[123748595, 1637957257,899643678]  
+    },
+    {
+        "studentname":"Ponky",
+        "age": 24,
+        "gender":"female",
+        "dob":"04-01-1999",
+        "course":"Mechanical",
+        "section":"C",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2OQGnYiRH_QmRz7bP68ZhFLP4n-a1wdqEA&usqp=CAU",
+        "phone":[123748595, 1637957257,899643678]  
+    
+    },
+    {
+        "studentname":"Dora",
+        "age": 24,
+        "gender":"female",
+        "dob":"06-01-1999",
+        "course":"Electronics",
+        "section":"A",
+        "photo":"https://i.pinimg.com/originals/aa/7d/33/aa7d3331ddb1718a931743502b22ce2e.jpg",
+        "phone":[123748595, 1637957257,899643678]  
+    },
+    {
+        "studentname":"Chutki",
+        "age": 24,
+        "gender":"female",
+        "dob":"08-01-1999",
+        "course":"Electrical",
+        "section":"A",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIK2m-2aJqDbaA4SOBj5vbZedF1_w6zh78AlhcpyLBMA&s",
+        "phone":[123748595, 1637957257,899643678]  
+
+    },
+    {
+        "studentname":"Bheem",
+        "age": 24,
+        "gender":"male",
+        "dob":"09-01-1999",
+        "course":"Mechanical",
+        "section":"B",
+        "photo":"https://w7.pngwing.com/pngs/879/233/png-transparent-man-in-brown-lungi-skirt-chhota-bheem-shemrock-orion-preschool-others-child-food-hand-thumbnail.png",
+        "phone":[123748595, 1637957257,899643678]  
+    
+    },
+    
+    {
+        "studentname":"Indumati",
+        "age": 24,
+        "gender":"female",
+        "dob":"10-01-1999",
+        "course":"Civil",
+        "section":"A",
+        "photo":"https://qph.cf2.quoracdn.net/main-qimg-77467f78d71d1e5229476ccc8a1ece1c-lq",
+        "phone":[12374675, 16897257,89993678]  
+    
+    }
+]
+    
